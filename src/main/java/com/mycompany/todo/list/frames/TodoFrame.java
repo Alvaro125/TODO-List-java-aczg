@@ -6,13 +6,13 @@ import com.mycompany.todo.list.entity.TodoEntity.Status;
 import com.mycompany.todo.list.entity.TodoEntityTableModel;
 import java.awt.List;
 import java.io.FileNotFoundException;
+import java.text.ParseException;
 import java.util.ArrayList;
 import java.util.Date;
 import java.util.logging.Level;
 import java.util.logging.Logger;
 import javax.swing.DefaultComboBoxModel;
 import javax.swing.JOptionPane;
-import org.json.simple.parser.ParseException;
 
 public class TodoFrame extends javax.swing.JFrame {
 
